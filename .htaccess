@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteRule ^index index.php [NC,L]
+# RewriteRule ^product_detail product_detail.php[NC,L]
+
+# RewriteRule ^shop2 shop2.php [NC,L]
+#  RewriteRule ^product_detail/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ product_detail.php?p_id=$1 [NC,L]
+# RewriteRule ^shop shop.php [NC,L] 

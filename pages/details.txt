@@ -1,0 +1,4 @@
+forgot password : karanprajapati9624@gmail.com 
+key :qrldvhnaaprimmld
+
+pages :processforgottop.php,check_forgot.php
